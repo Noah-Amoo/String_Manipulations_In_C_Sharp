@@ -1,0 +1,15 @@
+C:\Users\noah4\source\repos\StringManipulations\bin\Debug\net6.0\StringManipulations.exe
+C:\Users\noah4\source\repos\StringManipulations\bin\Debug\net6.0\StringManipulations.deps.json
+C:\Users\noah4\source\repos\StringManipulations\bin\Debug\net6.0\StringManipulations.runtimeconfig.json
+C:\Users\noah4\source\repos\StringManipulations\bin\Debug\net6.0\StringManipulations.dll
+C:\Users\noah4\source\repos\StringManipulations\bin\Debug\net6.0\StringManipulations.pdb
+C:\Users\noah4\source\repos\StringManipulations\obj\Debug\net6.0\StringManipulations.csproj.AssemblyReference.cache
+C:\Users\noah4\source\repos\StringManipulations\obj\Debug\net6.0\StringManipulations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noah4\source\repos\StringManipulations\obj\Debug\net6.0\StringManipulations.AssemblyInfoInputs.cache
+C:\Users\noah4\source\repos\StringManipulations\obj\Debug\net6.0\StringManipulations.AssemblyInfo.cs
+C:\Users\noah4\source\repos\StringManipulations\obj\Debug\net6.0\StringManipulations.csproj.CoreCompileInputs.cache
+C:\Users\noah4\source\repos\StringManipulations\obj\Debug\net6.0\StringManipulations.dll
+C:\Users\noah4\source\repos\StringManipulations\obj\Debug\net6.0\refint\StringManipulations.dll
+C:\Users\noah4\source\repos\StringManipulations\obj\Debug\net6.0\StringManipulations.pdb
+C:\Users\noah4\source\repos\StringManipulations\obj\Debug\net6.0\StringManipulations.genruntimeconfig.cache
+C:\Users\noah4\source\repos\StringManipulations\obj\Debug\net6.0\ref\StringManipulations.dll
